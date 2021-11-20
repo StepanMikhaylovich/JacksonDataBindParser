@@ -1,0 +1,13 @@
+{
+  "firstname": "stepan",
+  "lastname" : "turovets",
+  "profession": {
+    "military": "intelligence",
+    "expierence": "9 year"
+  },
+  "personalСontacts": [
+    "stepanmikhaylovich@icloud.com",
+    "+79115134377"
+  ]
+
+}
